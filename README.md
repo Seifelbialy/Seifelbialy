@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seifelbialy
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning software engineering and artificial intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
